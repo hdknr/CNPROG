@@ -1,0 +1,5 @@
+python-openid
+html5lib
+markdown2
+-e hg+http://bitbucket.org/benoitc/django-authopenid/#egg=django-authopenid
+-e git+http://github.com/robhudson/django-debug-toolbar.git#egg=django-debug-toolbar

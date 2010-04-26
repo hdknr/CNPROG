@@ -27,9 +27,17 @@ sudo easy_install markdown2
 6. Django Debug Toolbar
 http://github.com/robhudson/django-debug-toolbar/tree/master
 
+
 INSTALL STEPS:
 -----------------------------------------------
+
+
 0. Make sure you have all above python libraries installed.
+
+   run the followings ::
+
+	   easy_install mysql-python
+	   pip instal -r requirements.txt
 
 1. Copy settings_local.py.dist to settings_local.py and 
 update all your settings. Check settings.py and update 
